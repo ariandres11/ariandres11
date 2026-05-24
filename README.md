@@ -17,15 +17,20 @@ Analista Programador Universitario y estudiante avanzado de la Licenciatura en I
 ### 🚀 Proyectos en los que estoy trabajando
 *   **AM CRM (En desarrollo):** Plataforma monolítica modular para centralizar la gestión de servicios técnicos, control de stock y notificaciones automatizadas a clientes.
 *   **Ahorcado Refactoring:** Ejercicio de migración y buenas prácticas en Python, aplicando separación de responsabilidades y modularización.
-*   *   **Sale Partido:** Plataforma para unir gente que necesita canchas rápido con locales que las proporcionen.
+*   **Sale Partido:** Plataforma para unir gente que necesita canchas rápido con locales que las proporcionen.
 
 ---
 
-### ⚙️ Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariandres11&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Ariel" />
-</p>
+### 📊 Mi Actividad en GitHub
 
+Aquí podés ver un resumen visual de mi perfil:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariandres11&layout=compact&theme=tokyonight)](https://github.com/ariandres11)
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/ariandres11?label=Seguidores&style=for-the-badge&color=007acc" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/ariandres11?label=Estrellas%20Totales&style=for-the-badge&color=ffdd00" alt="Estrellas" />
+</p>
 ---
 
 ### 📫 ¿Cómo contactarme?
