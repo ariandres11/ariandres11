@@ -19,17 +19,15 @@ Analista Programador Universitario y estudiante avanzado de la Licenciatura en I
 *   **Ahorcado Refactoring:** Ejercicio de migración y buenas prácticas en Python, aplicando separación de responsabilidades y modularización.
 *   **Sale Partido:** Plataforma para unir gente que necesita canchas rápido con locales que las proporcionen.
 
----
+### 📊 GitHub Stats:
 
-### 📊 Mi Actividad en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariandres11&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas Generales" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariandres11&theme=tokyonight" alt="Racha de Commits" width="45%" />
+</p>
 
-Aquí podés ver un resumen visual de mi perfil:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariandres11&layout=compact&theme=tokyonight)](https://github.com/ariandres11)
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/ariandres11?label=Seguidores&style=for-the-badge&color=007acc" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/ariandres11?label=Estrellas%20Totales&style=for-the-badge&color=ffdd00" alt="Estrellas" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariandres11&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="50%" />
 </p>
 ---
 
