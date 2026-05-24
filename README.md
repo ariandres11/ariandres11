@@ -17,6 +17,7 @@ Analista Programador Universitario y estudiante avanzado de la Licenciatura en I
 ### 🚀 Proyectos en los que estoy trabajando
 *   **AM CRM (En desarrollo):** Plataforma monolítica modular para centralizar la gestión de servicios técnicos, control de stock y notificaciones automatizadas a clientes.
 *   **Ahorcado Refactoring:** Ejercicio de migración y buenas prácticas en Python, aplicando separación de responsabilidades y modularización.
+*   *   **Sale Partido:** Plataforma para unir gente que necesita canchas rápido con locales que las proporcionen.
 
 ---
 
@@ -28,5 +29,5 @@ Analista Programador Universitario y estudiante avanzado de la Licenciatura en I
 ---
 
 ### 📫 ¿Cómo contactarme?
-*   **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) *(Cambiá esto por tu link real)*
+*   **LinkedIn:** [https://www.linkedin.com/in/ariel-sebasti%C3%A1n-andr%C3%A9s-84058b2ab/
 *   **Ubicación:** Puerto Madryn, Chubut, Argentina 🇦🇷
