@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Ariel Andrés 👋
 
-<!--
-**ariandres11/ariandres11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista Programador Universitario y estudiante avanzado de la Licenciatura en Informática en la UNPSJB. Me apasiona construir software eficiente, limpio y escalable, combinando el desarrollo backend robusto con soluciones ágiles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Mi Stack Tecnológico
+
+| Backend & Arquitectura | Frontend & Diseño | Herramientas & DevOps |
+| :--- | :--- | :--- |
+| ☕ Java (Spring Boot, JPA) | 🅰️ Angular (TypeScript) | 🐳 Docker & Kubernetes |
+| 🐍 Python (FastAPI, Django) | 🎨 Figma (Diseño UI) | 🐧 Linux Fedora (KDE) |
+| 🐘 PostgreSQL | 🥾 Bootstrap | 🛠️ Git & CI/CD |
+
+---
+
+### 🚀 Proyectos en los que estoy trabajando
+*   **AM CRM (En desarrollo):** Plataforma monolítica modular para centralizar la gestión de servicios técnicos, control de stock y notificaciones automatizadas a clientes.
+*   **Ahorcado Refactoring:** Ejercicio de migración y buenas prácticas en Python, aplicando separación de responsabilidades y modularización.
+
+---
+
+### ⚙️ Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariandres11&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Ariel" />
+</p>
+
+---
+
+### 📫 ¿Cómo contactarme?
+*   **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) *(Cambiá esto por tu link real)*
+*   **Ubicación:** Puerto Madryn, Chubut, Argentina 🇦🇷
