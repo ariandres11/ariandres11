@@ -22,7 +22,6 @@ Analista Programador Universitario y estudiante avanzado de la Licenciatura en I
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariandres11&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas Generales" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariandres11&theme=tokyonight" alt="Racha de Commits" width="45%" />
 </p>
 ---
