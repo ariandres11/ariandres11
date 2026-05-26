@@ -27,15 +27,6 @@ Analista Programador Universitario y estudiante avanzado de la Licenciatura en I
 ### 📊 Mis Estadísticas en GitHub
 
 
-<!-- Estadísticas Generales -->
-### 📊 Mis Estadísticas en GitHub
-
-<!-- Estadísticas Generales (Usando el servidor oficial de GitHub Readme Stats directamente) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariandres11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ariel's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariandres11&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 <!-- Racha de Commits (Usando un provider alternativo y estable) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ariandres11&theme=radical&hide_border=false" alt="GitHub Streak" />
